@@ -243,3 +243,7 @@ O
 n
 )
 O(n)
+
+___________________
+## References:
+🔗 Problem Reference: [NeetCode - Minimum Size Subarray Sum](https://neetcode.io/problems/minimum-size-subarray-sum/)
