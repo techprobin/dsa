@@ -102,3 +102,9 @@ res = float("inf")
                 l += 1
 
         return 0 if res == float("inf") else res
+
+
+## References:
+🔗 Problem Reference: [NeetCode - Minimum Size Subarray Sum](https://neetcode.io/problems/minimum-size-subarray-sum/)
+
+
